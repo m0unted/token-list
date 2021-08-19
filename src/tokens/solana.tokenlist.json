@@ -11733,6 +11733,20 @@
         "twitter": "https://twitter.com/mangomarkets",
         "discord": "https://discord.gg/67jySBhxrg"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DqRNwrvGUffB1j9tEYHcpw1DLMoc2QfwZ25nkBHkvRmr",
+      "symbol": "SUPL",
+      "name": "Suplar",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/88976968/129484652-9a4942fe-361d-4dc9-9add-1971848d598a.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://suplar.com",
+	      "telegram": "https://t.me/suplar",
+	      "twitter": "https://twitter.com/suplarcom"
+      }
     }
   ],
   "version": {
